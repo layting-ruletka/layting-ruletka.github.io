@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: layting-ruletka.github.io
+Sitemap: https://layting-ruletka.github.io/sitemap.xml
